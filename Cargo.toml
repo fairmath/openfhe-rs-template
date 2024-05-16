@@ -1,0 +1,9 @@
+[package]
+name = "openfhe-rs-template"
+version = "0.1.0"
+edition = "2021"
+description = "An example of using the OpenFHE Fully Homomorphic Encryption Library Rust package."
+license-file = "LICENSE"
+
+[dependencies]
+openfhe = "0.1.2"
