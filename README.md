@@ -4,7 +4,7 @@ This repository contains all you need to create an FHE-enabled application using
 
 # Getting started
 
-To build the code in this repositorym, you need to install the `OpenFHE` core library on your system. That will provide you with low-level optimizations.
+To build the code in this repository, you need to install the `OpenFHE` core library on your system. That will provide you with low-level optimizations.
 
 ## Install dependencies
     
