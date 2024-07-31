@@ -12,5 +12,5 @@ fn main()
     println!("cargo::rustc-link-arg=-fopenmp");
 
     // necessary to avoid LD_LIBRARY_PATH
-    println!("cargo::rustc-link-arg=-Wl,-rpath=/usr/local/lib");
+    println!("cargo::rustc-link-arg=-Wl,-rpath,/usr/local/lib");
 }
